@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites name="Mocha Tests" time="0.002" tests="1" failures="1">
-  <testsuite name="Root Suite" timestamp="2020-06-16T11:38:36" tests="1" failures="1" time="0.002">
+  <testsuite name="Root Suite" timestamp="2020-06-16T11:44:44" tests="1" failures="1" time="0.002">
     <testcase name="returns maximum of two numbers" time="0.002" classname="returns maximum of two numbers">
       <failure message="undefined == 2" type="AssertionError [ERR_ASSERTION]"><![CDATA[AssertionError [ERR_ASSERTION]: undefined == 2
     at Context.it (test.js:5:12)]]></failure>
